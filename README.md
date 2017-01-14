@@ -1,3 +1,4 @@
 # Algo1
 
-## all algo 1 java class
+## all algo 1
+java code
